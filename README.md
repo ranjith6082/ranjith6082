@@ -46,34 +46,34 @@
 ### 🛠️ Skills — DevOps & Cloud (larger icons)
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" height="100" alt="AWS" title="AWS" style="margin-right:12px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="72" height="72" alt="AWS" title="AWS" style="margin-right:12px"/>
   </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100" height="100" alt="Docker" title="Docker" style="margin-right:12px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="72" height="72" alt="Docker" title="Docker" style="margin-right:12px"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="100" height="100" alt="Kubernetes" title="Kubernetes" style="margin-right:12px"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="72" height="72" alt="Kubernetes" title="Kubernetes" style="margin-right:12px"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" height="100" alt="Python" title="Python" style="margin-right:12px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="72" height="72" alt="Python" title="Python" style="margin-right:12px"/>
   </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100" height="100" alt="Git" title="Git" style="margin-right:12px"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="72" height="72" alt="Git" title="Git" style="margin-right:12px"/>
   </a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100" height="100" alt="Linux" title="Linux" style="margin-right:12px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="72" height="72" alt="Linux" title="Linux" style="margin-right:12px"/>
   </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" alt="MySQL" title="MySQL" style="margin-right:12px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="72" height="72" alt="MySQL" title="MySQL" style="margin-right:12px"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="72" height="72" alt="Postgres" title="Postgres" style="margin-right:12px"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="100" height="100" alt="Jenkins" title="Jenkins" style="margin-right:12px"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="72" height="72" alt="Jenkins" title="Jenkins" style="margin-right:12px"/>
   </a>
   <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="100" height="100" alt="Spring" title="Spring" style="margin-right:12px"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="72" height="72" alt="Spring" title="Spring" style="margin-right:12px"/>
   </a>
 </p>
 
