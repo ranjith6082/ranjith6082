@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠️ Skills — DevOps & Cloud (larger icons)
+### 🛠️ Skills — DevOps & Cloud
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="72" height="72" alt="AWS" title="AWS" style="margin-right:12px"/>
